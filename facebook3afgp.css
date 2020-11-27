@@ -1,0 +1,84 @@
+
+.computer{
+    display:none;
+}
+*{
+    box-sizing: border-box;
+}
+.two{
+    font-family: Helvetica, Arial, sans-serif;
+ font-size: 20px;
+ font-weight: 800;
+ line-height: 16.08px;
+ color: blue;
+ text-align: center;
+ 
+ 
+}
+.one{
+    position: relative;
+    top:20px;
+    text-align: center;
+}
+.six{
+    color:black;
+    font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ font-weight: 600;
+ line-height: 16.08px;
+ margin-left:-150px
+}
+
+    .five{
+    width: 90%;
+    height: 40px;
+    left:-10px;
+    font-size:17px;
+    border:1px solid #dddddd;
+    padding:0 15px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    background-color:#f0f2f5 ;
+    }
+    .five:focus{
+    outline-color: rgba(255, 255, 0, 0.616);
+    background-color: #f0f2f5;
+    }
+    .seven{
+        background-color: white;
+        color: blue;
+        font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ font-weight: 600;
+ line-height: 16.08px;
+ width: 165px;
+ height: 30px;
+ position: relative;
+ left:-0px;
+ border:1px solid blue;
+ border-radius: 5px;
+
+    }
+    .eight{
+        background-color:blue;
+        color: white;
+        font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ font-weight: 600;
+ line-height: 16.08px;
+ width: 170px;
+ height: 30px;
+ position: relative;
+ border: 1px solid blue;
+ border-radius: 5px;
+ right: 0px;
+
+    }
+    .nine{
+        color:blue;
+        font-family: Helvetica, Arial, sans-serif;
+ font-size: 14px;
+ font-weight: 400;
+ line-height: 16.08px;
+ margin-top:12px;
+    }

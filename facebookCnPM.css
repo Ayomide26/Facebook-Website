@@ -1,0 +1,136 @@
+.mobile{
+    width: 50%;
+}
+.computer{
+    display:none;
+}
+*{
+    box-sizing: border-box;
+}
+.B1{
+    width: 100%;
+    height: 45px;
+    background-color:rgba(20, 20, 218, 0.883);
+}
+.B2{
+    color:white;
+    text-align:center;
+    position: relative;
+    top:13px;
+    font-family: Roboto,  Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.B3{
+    height: 60px;
+    width: 100%;
+    position: relative;
+    top:13px;
+
+}
+.B4{
+    text-align:center;
+    position: relative;
+    font-family: Roboto,  Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 18px;
+    color:rgb(0, 0, 0); 
+}
+.B5{
+    text-align:center;
+    position: relative;
+    font-family: Roboto,  Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    color:rgb(0, 0, 0);
+    margin-top:-10px;
+}
+.B6{
+    display:flex;
+}
+.B7{
+    font-family: Roboto,  Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color:rgba(0, 0, 0, 0.582);
+    position: relative;
+    left:10px;
+    top:12px;
+    
+}
+.B8{
+    width: 90%;
+    margin-left:10px;
+    height: 40px;
+    border-radius: 5px;
+    border:1px solid #c3bdbd;
+    
+}
+.B9{
+    display: flex;
+}
+.B10{
+    font-family: Roboto,  Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color:rgba(0, 0, 0, 0.582);
+    position: relative;
+    left:130px;
+    top:12px; 
+}
+.B11{
+    
+    
+    width: 200px;
+    
+ 
+    }
+    .B11:hover{
+        color:white;
+        text-decoration: none;
+    }
+    .B11:focus{
+        color:white;
+        text-decoration: none;
+    }
+    .B12{
+        margin-top: 20px;
+        text-align: center;
+
+    }
+    .B13{
+        font-family: Roboto,  Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color:rgb(138, 141,145);
+    margin-left:20px;
+    margin-top:20px;
+    }
+    .para2{
+        position: absolute;
+        right:255px;
+    }
+    .para3{
+       font-size: 14px;
+       line-height: 16.08px;
+       color:rgb(138, 141,145);
+       font-family:Arial, Helvetica, sans-serif;
+       font-weight: 400;
+       margin-left: 200px;
+       word-spacing: 4px;
+       }
+       .para4{
+           position: absolute;
+        left:15px;
+       
+       }
+       .para5{
+           position: absolute;
+           left:-80px;
+           margin-top:70px;
+       }
